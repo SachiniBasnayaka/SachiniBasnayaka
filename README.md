@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Sachini Basnayaka</h1>
 
-<h3 align="center">Financial Mathematics & Industrial Statistics Undergraduate</h3>
+<h3 align="center">  BSc (Hons) in Financial Mathematics & Industrial Statistics Undergraduate</h3>
 
 <p align="center">
   🚀 <b>Data Analyst | Quantitative Modeling & Statistical Researcher </b>
