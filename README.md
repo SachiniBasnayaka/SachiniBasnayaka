@@ -1,16 +1,91 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Sachini Basnayaka</h1>
 
-<!--
-**SachiniBasnayaka/SachiniBasnayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Financial Mathematics & Industrial Statistics Undergraduate</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  🚀 <b>Data Analyst | Quantitative Modeling & Statistical Researcher | Tech Enthusiast</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+I am a passionate **Financial Mathematics & Industrial Statistics (FMIS)** undergraduate at the **University of Ruhuna**. I specialize in combining mathematical techniques, statistical modeling, operations research, and programming (R, MATLAB, Python) to analyze real-world quantitative and financial data.
+
+* 🎓 Pursuing **BSc (Hons) in Financial Mathematics & Industrial Statistics** at **University of Ruhuna**
+* 📊 Deeply interested in **Time Series Analysis, Operations Research, Econometric Modeling, and Machine Learning**
+* 🔬 Currently working on **Agricultural Export Competitiveness Optimization** using MCDM approaches (AHP, Entropy, TOPSIS)
+* 💡 Mastering quantitative toolchains: **R, MATLAB, Python, SQL, and LaTeX**
+* 🤝 Looking to collaborate on **Data Analytics, Quantitative Finance, Econometrics, and Statistical Modeling projects**
+* 📫 Reach me at: **sachinibasnayaka508@gmail.com**
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/sachini-basnayaka" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/SachiniBasnayaka" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:sachinibasnayaka508@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+### 💻 Tech Stack & Tools
+
+#### Programming & Analysis Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MATLAB-e16707?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+#### Data Science, Machine Learning & Analytics
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
+
+#### Reporting & Productivity Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 📈 Financial & Statistical Modeling
+* **[ML-ARIMA Stock Selection and Forecasting](https://github.com/SachiniBasnayaka/ML-ARIMA-Stock-Selection-and-Forecasting)** — Integrates machine learning and ARIMA models for stock selection and price forecasting in Sri Lanka's S&P SL20 Index[cite: 7].
+* **[Socioeconomic Indicators & GDP Analysis](https://github.com/SachiniBasnayaka/Socioeconomic-Indicators-and-GDP-Across-154-Countries)** — Multiple linear regression in R examining relationships between socioeconomic indicators and GDP per capita across 154 countries[cite: 7].
+
+#### ⚙️ Operations Research & Optimization
+* **[Goal Programming Bakery Production Optimization](https://github.com/SachiniBasnayaka/Goal-Programming-Bakery-Production-Optimization)** — Real-world bakery production optimization using MATLAB mathematical modeling to balance profit targets and production constraints[cite: 7].
+
+#### 📊 Applied Statistics & Research
+* **[Dengue Statistics Matara District](https://github.com/SachiniBasnayaka/Dengue-Statistics-Matara-District)** — Comprehensive numerical analysis in MATLAB modeling epidemic trends using Cubic Splines, Newton's Divided Differences, and Lagrange Interpolation[cite: 7].
+* **[E-Banking Service Quality & Customer Satisfaction](https://github.com/SachiniBasnayaka/E-Banking-Service-Quality-and-Customer-Satisfaction)** — Quantitative research examining service quality and satisfaction among University of Ruhuna undergraduates[cite: 7].
+
+---
+
+### 🎯 Current Focus
+
+```python
+class SachiniBasnayaka:
+    def __init__(self):
+        self.degree = "BSc (Hons) in Financial Mathematics & Industrial Statistics"
+        self.university = "University of Ruhuna"
+        self.current_research = "Sri Lankan Agricultural Export Competitiveness (MCDM Model)"
+        self.tech_stack = ["R", "MATLAB", "Python", "SQL", "LaTeX"]
+        self.goal = "Applying quantitative finance & statistical analytics to solve real-world industry problems"
