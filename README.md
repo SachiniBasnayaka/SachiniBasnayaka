@@ -41,27 +41,30 @@ I am a passionate **Financial Mathematics & Industrial Statistics (FMIS)** under
 
 #### Programming & Analysis Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MATLAB-e16707?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://skillicons.dev/icons?i=r" height="48" alt="R" />
+  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=matlab" height="48" alt="MATLAB" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="SQL" />
 </p>
 
 #### Data Science, Machine Learning & Analytics
 <p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="Scikit-Learn" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=jupyter" height="48" alt="Jupyter" />
 </p>
 
 #### Reporting & Productivity Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://skillicons.dev/icons?i=latex" height="48" alt="LaTeX" />
+  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VSCode" />
 </p>
-
 ---
 
 ### 🚀 Featured Projects
