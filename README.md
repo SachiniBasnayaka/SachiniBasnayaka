@@ -64,7 +64,7 @@ I am a passionate **Financial Mathematics & Industrial Statistics (FMIS)** under
   <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VSCode" />
-</p>
+
 ---
 
 ### 🚀 Featured Projects
