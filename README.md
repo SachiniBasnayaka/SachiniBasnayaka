@@ -7,8 +7,8 @@
 </p>
 
 ---
-
 ### 👨‍💻 About Me
+---
 
 I am a passionate **Financial Mathematics & Industrial Statistics (FMIS)** undergraduate at the **University of Ruhuna**. I specialize in combining mathematical techniques, statistical modeling, operations research, and programming (R, MATLAB, Python) to analyze real-world quantitative and financial data.
 
@@ -20,8 +20,8 @@ I am a passionate **Financial Mathematics & Industrial Statistics (FMIS)** under
 
 
 ---
-
 ### 🌐 Connect with Me
+---
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sachini-basnayaka-829792304/" target="_blank">
@@ -35,10 +35,8 @@ I am a passionate **Financial Mathematics & Industrial Statistics (FMIS)** under
   </a>
 
 ---
-
-
 ### 💻 Tech Stack & Tools
-
+---
 #### Programming & Analysis Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=r" height="48" alt="R" />
@@ -66,8 +64,8 @@ I am a passionate **Financial Mathematics & Industrial Statistics (FMIS)** under
   <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VSCode" />
 
 ---
-
 ### 🚀 Featured Projects
+---
 
 #### 📈 Financial & Statistical Modeling
 * **[ML-ARIMA Stock Selection and Forecasting](https://github.com/SachiniBasnayaka/ML-ARIMA-Stock-Selection-and-Forecasting)** — Integrates machine learning and ARIMA models for stock selection and price forecasting in Sri Lanka's S&P SL20 Index[cite: 7].
