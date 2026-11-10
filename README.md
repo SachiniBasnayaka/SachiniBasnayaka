@@ -17,7 +17,7 @@ I am a passionate **Financial Mathematics & Industrial Statistics (FMIS)** under
 * 🔬 Currently working on **Agricultural Export Competitiveness Optimization** using MCDM approaches (AHP, Entropy, TOPSIS)
 * 💡 Mastering quantitative toolchains: **R, MATLAB, Python, SQL, and LaTeX**
 * 🤝 Looking to collaborate on **Data Analytics, Quantitative Finance, Econometrics, and Statistical Modeling projects**
-* 📫 Reach me at: **sachinibasnayaka508@gmail.com**
+
 
 ---
 
