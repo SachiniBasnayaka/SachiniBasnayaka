@@ -33,8 +33,10 @@ I am a passionate **Financial Mathematics & Industrial Statistics (FMIS)** under
   <a href="mailto:sachinibasnayaka508@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
 </p>
 
+---
 
 
 ### 💻 Tech Stack & Tools
