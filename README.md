@@ -3,7 +3,7 @@
 <h3 align="center">Financial Mathematics & Industrial Statistics Undergraduate</h3>
 
 <p align="center">
-  🚀 <b>Data Analyst | Quantitative Modeling & Statistical Researcher | Tech Enthusiast</b>
+  🚀 <b>Data Analyst | Quantitative Modeling & Statistical Researcher </b>
 </p>
 
 ---
@@ -35,7 +35,7 @@ I am a passionate **Financial Mathematics & Industrial Statistics (FMIS)** under
   </a>
 </p>
 
----
+
 
 ### 💻 Tech Stack & Tools
 
@@ -65,7 +65,7 @@ I am a passionate **Financial Mathematics & Industrial Statistics (FMIS)** under
   <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VSCode" />
 </p>
----
+
 
 ### 🚀 Featured Projects
 
